@@ -1,0 +1,37 @@
+Exam --> pointers for Multiple Choice part - 25 questions through NumPy and Pandas
+    ALL questions will be coming from the Power Points, in class on Wednesday he will be
+    giving us hints
+    Interviews - 15 minute windows on Monday to talk through project 
+
+    Questions:
+    - show me the code that moves the ship left or right
+        - show the code and explain what it does, a general understanding
+    - he might ask us to change something, then we can change it,
+        - why doesn't the bullet pass through the alien, it just hits it and doesn't go
+        through
+
+    Monday will only be the midterm 
+
+
+NLP = Natural Language Processing
+Someone developed a NLP tool kit that has an algorithm that trains their model over and over
+Analyze comments and figure out if it is a positive or negative comments
+
+Pretty cutting - edge, people are still developing these kind of things 
+
+Some of the work has already been done, it can sense context 
+
+Repetition is helpful, the more we can throw at it the better it learns
+
+TextBlob
+- object oriented NLP text-processing library
+- built on the NLTK ( natural language tool kit) and pattern NLP libraries
+    - tokenization - splitting text into pieces called tokens, which are meaningful units, such as words and numbers
+    - parts of speech (POS) tagging
+    - noun phrase extraction
+    - sentiment analysis
+    - inter-language translation and language detection
+        - actually uses Google Translate to put it into a different language
+    - inflection - pluralizing and singularizing words
+    - word frequencies - determinging how often each word appears in a corpus
+    - WordNet integration - for finding word definition, synonyms and antonyms 
