@@ -9,6 +9,11 @@ Exam --> pointers for Multiple Choice part - 25 questions through NumPy and Pand
     - he might ask us to change something, then we can change it,
         - why doesn't the bullet pass through the alien, it just hits it and doesn't go
         through
+    - how do i make sure the aliens dissapear when the bullet hits them
+    - how come the aliens go off the screen, how do they change direction
+
+Take as many notes as necessary and then be able to explain those 
+No notes on Multiple Choice section
 
     Monday will only be the midterm 
 
@@ -35,3 +40,27 @@ TextBlob
     - inflection - pluralizing and singularizing words
     - word frequencies - determinging how often each word appears in a corpus
     - WordNet integration - for finding word definition, synonyms and antonyms 
+
+
+
+
+
+    Dictionaries
+    - Particular methods - key, values and items
+    - know what key error is
+    - know how to find or delete an item from a dictionary
+    OOP
+    - what is encapsulation
+    - what is an instance 
+    - accessor and mutator methods, what they does
+    - string method of a class definiton, what does that do?
+    List Comprehension
+    - know how it works
+    - know all 3 parts of list comprehension, expression, iteration, condition
+    Numpy
+    - what type of object numpy arrays create
+    - be familiar with zeros, ones and pull functions
+    - be familiar with reshape and resize
+    - know what broadcasting is
+    - boolean indexing and how that works
+    - know what axis = 1 or axis = 0 means, row by row or column by column
